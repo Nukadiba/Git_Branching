@@ -1,6 +1,6 @@
-# 1. Git Repository Dashboard
+# 1. Pull Request Creation 
 
-![](./img/git_dashboard.png)
+![](./img/new_pull.png)
 
 # 2. Switching to update navigation Branch
 
