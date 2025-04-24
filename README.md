@@ -1,37 +1,31 @@
-#  Pull Request Creation 
+# 1. Navigating into the GitHub Repository
 
-![](./img/new_pull.png)
+![](./img/GitHub_repo.png)
 
-#  Merging of the pull Request Creation 
+# 2. Switching to the Branch 
 
-![](./img/merge.png)
+![](./img/switching_Branch.png)
 
-![](./img/merge2.png)
+# 3. Creating a pull request 
 
-![](./img/fetceh&merge.png)
+![](./img/Opeing_pull.png)
 
-# 2. Switching to update navigation Branch
+# 4&5. Reviewing Tom Changes and creating the pull request
 
-![](./img/b_switching.png)
+![](./img/creatig_pull_request.png)
 
+![](./img/Pull_request%20created.png)
 
-# 3. Creating a new Pull request 
+# Updating Jerry Branch With latest changes
 
-![](./img/pul_r.png)
+## Switching to Jerry branch 
 
-# 4. Creating the pull request 
+![](./img/git_checkout_add_info.png)
 
-![](./img/pull_re2.png)
+## Pulling the Latest Change from the Main Branch
 
+![](./img/Git_pull_origin.png)
 
-# 5. Swicting to add-contact-info branch 
-![](./img/ad_checkout.png)
+## Finalizing Jerry's Work
 
-# 6. git pull Origin Main 
-
-![](./img/origin_main.png)
-
-# 7. Finalizing Jerry's Contribution 
-
-![](./img/finalysing%20jerry%20.png)
-
+![](./img/Finallizing_Jerry_Work.png)
