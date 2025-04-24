@@ -26,6 +26,10 @@
 
 ![](./img/Git_pull_origin.png)
 
-## Finalizing Jerry's Work
+## Finalizing Jerry's Work (Merging into the main repository)
 
 ![](./img/Finallizing_Jerry_Work.png)
+
+# Jerry Pull Request has now been mergeed into the main
+
+![](./img/Jerry_merge.png)
