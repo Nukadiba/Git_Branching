@@ -22,7 +22,7 @@
 
 ![](./img/git_checkout_add_info.png)
 
-## Pulling the Latest Change from the Main Branch
+## Pulling the Latest Change from the Main Branch (Jerry Pull request)
 
 ![](./img/Git_pull_origin.png)
 
